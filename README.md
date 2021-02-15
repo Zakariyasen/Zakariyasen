@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zakariyasen
-- 👀 I’m interested in improving my code skills
-- 🌱 I’m currently learning Javascript although I'm struggling to manage my time and come up with interesting projects. I'm not sure where to start
-- 📫 E-mail me on Zakariyasen@gmail.com if you have any practice projects you'd like me to try.
+- Hi, I’m @Zakariyasen.
+- I’m interested in improving my code skills.
+- I’m currently learning Javascript although I'm struggling to manage my time and come up with interesting projects. I'm not sure where to start.
+- E-mail me on Zakariyasen@gmail.com if you have any practice projects you'd like me to try.
